@@ -18,7 +18,7 @@ Systems Administrator transitioning into **SOC Operations, Digital Forensics & I
 
 ### Featured Architecture & Projects
 
-* **[Zero-Trust Homelab & Enterprise SIEM/XDR Stack](https://github.com/romupegar/homelab-siem-architecture):** Multi-node Proxmox VE and Raspberry Pi failover architecture running Wazuh SIEM/EDR, CrowdSec IPS, Nginx SSL reverse proxy, and Zero-Trust Tailscale ACLs.
+* **[Zero-Trust Homelab & Enterprise SIEM/XDR Stack](https://github.com/romupegar/enterprise-siem-lab-blueprint):** Multi-node Proxmox VE and Raspberry Pi failover architecture running Wazuh SIEM/EDR, CrowdSec IPS, Nginx SSL reverse proxy, and Zero-Trust Tailscale ACLs.
 * **[DFIR & SysAdmin Automation Toolkit](https://github.com/romupegar/sysadmin-dfir-toolkit):** Collection of Bash, PowerShell, and Python scripts for Linux/Windows system hardening, health auditing, and forensic log triage.
 * **[AI-Assisted DFIR Log Triage & PQC Pipeline](https://github.com/romupegar/ai-dfir-pqc-triage):** BSc (Hons) dissertation project combining local Small Language Models with NIST FIPS 203 (ML-KEM) post-quantum encryption for automated MITRE ATT&CK classification.
 
